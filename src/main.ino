@@ -26,7 +26,7 @@
 
 #define EPEVER_SERIAL Serial // Set the serial port for communication with the EPEver
 #define EPEVER_BAUD 115200   // baud rate for modbus
-#define EPEVER_DE_RE 5       // connect DE and Re to pin D1
+#define EPEVER_DE_RE 0       // connect DE and Re to pin D1
 
 
 
